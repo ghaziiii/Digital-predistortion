@@ -5,6 +5,9 @@ How to use:
 Create your modelsim project in modelsim folder then add the src and tb files to the project.
 
 Author    : Ghazi Aousaji
-Email     : ghazi.aoussaji@gmail.com 
+
+Email     : ghazi.aoussaji@gmail.com
+
 Linkedin  : https://www.linkedin.com/in/ghazi-aousaji-292067134/
+
 Website	  : https://ghaziiii.github.io/Ghazi_aoussaji/
